@@ -41,8 +41,8 @@
 .but {
     display: flex;
     position: absolute;
-    margin-left: 770px;
-    margin-top: 680px;
+    margin-left: 700px;
+    margin-top: 650px;
 }
 
 @keyframes scale {
